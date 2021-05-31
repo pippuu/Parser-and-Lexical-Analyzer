@@ -1,2 +1,2 @@
-# Lexical-Analyzer
-Lexical Analyzer of our TBA project
+# Parser and Lexical Analyzer
+Parser and Lexical Analyzer of our TBA project
